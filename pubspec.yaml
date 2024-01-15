@@ -1,0 +1,65 @@
+name: eletrohome
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider:
+
+  cupertino_icons: ^1.0.2
+  flutter_native_splash:
+  flutter_launcher_icons:
+  cloud_firestore:
+  firebase_core:
+  firebase_auth: ^4.6.1
+  email_validator:
+  google_sign_in:
+  flutter_svg: ^2.0.7
+  stylish: ^0.1.0
+  flutter_slidable: ^3.0.0
+  intl: ^0.18.1
+  flutter_credit_card_brazilian: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets\app\splash.png
+  android: true
+  ios: true
+
+flutter_icons: 
+  android: true
+  ios: true
+  image_path: assets\app\icon.png
+  remove_alpha_ios: true
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+  fonts:
+    - family: Helveltica
+      fonts:
+        - asset: assets/fonts/Helvetica.ttf
+
+  assets:
+    - assets/imgs/num.png
+    - assets/imgs/code.png
+    - assets/imgs/icone.png
+    - assets/imgs/google.png
+    - assets/icons/
+    - assets/images/
+    - assets/images/maria.png

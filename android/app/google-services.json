@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726628551124",
+    "project_id": "eletrohome123",
+    "storage_bucket": "eletrohome123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726628551124:android:971ce3ac3dc233ae46ee41",
+        "android_client_info": {
+          "package_name": "com.example.eletrohome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726628551124-k81ujbd2n3ogk3h2i38mqr6icii5inhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBoUWj09KKhuF1C1lYzowd-t3h7ZT22A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726628551124-k81ujbd2n3ogk3h2i38mqr6icii5inhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

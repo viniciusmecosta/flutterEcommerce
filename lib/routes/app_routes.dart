@@ -1,0 +1,33 @@
+class AppRoutes {
+  static const INICIO0 = '/';
+  static const INICIO1 = '/inicio1';
+  static const INICIO2 = '/inicio2';
+  static const LOGIN = '/login';
+  static const TEL_CONFIRM = '/user-form';
+  static const CONFIRM_DELETE = '/user-delete';
+  static const ENDERECO_EDIT = '/user-edit';
+  static const ENDERECO_LIST = '/user-list';
+  static const VERIFY_NUM = '/user-num';
+  static const EDIT_SENHA = '/user-senha';
+  static const HOME = '/user-home';
+  static const CADASTRAR = '/user-cadastrar';
+  static const CARRINHO = '/user-carrinho';
+  static const NOTIFY = '/user-notifica';
+  static const FILTER = '/user-filtro';
+  static const CHECKOUT = '/user-checkout';
+  static const PARABENSCP = '/user-parabenscp';
+  static const SUPORTE = '/user-suporte';
+  static const PEDIDOS = '/user-pedidos';
+  static const SOBRE = '/user-sobre';
+  static const CONFIGS = '/user-configs';
+  static const PERFIL = '/user-perfil';
+  static const CUPONS = '/user-cupons';
+  static const TICKET = '/user-ticket';
+  static const PARABENSTIC = '/user-tic';
+  static const VENDER1 = '/user-vender1';
+  static const VENDER2 = '/user-vender2';
+  static const VENDER3 = '/user-vender3';
+  static const CREDIT = '/user-credit';
+  static const CARTEIRA = '/user-carteira';
+  static const ENDERECO_FORM = '/user-enderecoform';
+}
